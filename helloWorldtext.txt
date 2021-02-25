@@ -1,0 +1,6 @@
+hello
+my
+name
+is
+chanyoung
+this is the first commit
